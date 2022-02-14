@@ -11,13 +11,7 @@ import requests
 
 requests.packages.urllib3.disable_warnings()
 
-
 ok_code = [200, 201, 202, 203, 204, 205, 206]
-
-# 邮箱域名过滤列表
-blackhole_list = ["cnr.cn", "cyberpolice.cn", "gov.cn", "samr.gov.cn", "12321.cn"
-                  "miit.gov.cn", "chinatcc.gov.cn"]
-
 
 def write_log(content, level="INFO"):
 
@@ -40,7 +34,7 @@ def get_subscribe_url():
     if not entries:
         write_log("更新失败！无法拉取原网站内容", "ERROR")
         return
-    update_list = []
+    update_list = ["http://wxshi.top:9090/vmess/sub", "https://raw.githubusercontent.com/freefq/free/master/v2"]
     summary = entries[0].get("summary")
     if not summary:
         write_log("暂时没有可用的订阅更新", "WARN")
