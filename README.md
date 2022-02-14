@@ -1,8 +1,12 @@
 # Auto-subscribe
 
-> Based on [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe)
+> Based on [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe)b
 
 自动获取订阅链接
+
+## 🌐 网站
+
+本仓库的在线网址 <https://auto-subscribe.vercel.app/>
 
 ## ⚠️ 注意
 
