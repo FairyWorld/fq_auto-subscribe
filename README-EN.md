@@ -4,15 +4,21 @@
 
 Automatically fetch links from remote subscriptions and integrate them into this subscription address
 
+- - -
+
 ## 🌐 Website
 
 This repository's online site <https://auto-subscribe.vercel.app/>
+
+- - -
 
 ## ⚠️ Warning
 
 - Links are from the Internet and are for learning purposes only
 - When using any of the resources provided on this page, please be sure to comply with local laws
 - Those who insult anything maliciously please do not use this repository, you are not welcome here
+
+- - -
 
 ## 🚀 Subscription Links
 
@@ -27,10 +33,14 @@ v2ray: https://raw.githubusercontent.com/ObcbO/auto-subscribe/main/subscribe/v2r
 </code></pre>
 </details>
 
+- - -
+
 ## 📘 Clients
 
 - 📱 [Android](https://github.com/Kr328/ClashForAndroid/releases)
 - 🖥 [Windows and Linux](https://github.com/Dreamacro/clash)
+
+- - -
 
 ## ⭐ Thanks
 
