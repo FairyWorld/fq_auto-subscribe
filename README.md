@@ -1,4 +1,8 @@
-# ⏰ 自动获取订阅链接
+# Auto-subscribe
+
+> Based on [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe)
+
+自动获取订阅链接
 
 ## ⚠️ 注意
 
@@ -9,27 +13,15 @@
 
 ## 🚀 每6小时更新一次
 
-- clash订阅链接：`https://git.io/emzclash`
+- clash订阅链接：`https://cdn.jsdelivr.net/gh/obcbo/auto-subscribe/subscribe/clash.yml`
 
-- v2ray订阅链接：`https://git.io/emzv2ray`
-
-手机用户无法访问上方短链接时可以用下面的长链接
-
-- clash订阅链接：`https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml`
-
-- v2ray订阅链接：`https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt`
-
-## 📧 更新推送
-
-- 由于留邮箱会导致收到垃圾信息，删除此功能了！
+- v2ray订阅链接：`https://cdn.jsdelivr.net/gh/obcbo/auto-subscribe/subscribe/v2ray.txt`
 
 ## 📘 客户端使用方法
 
-- 📱 [Android](https://www.ermao.net/skill/clashforandroid/)
-- 🖥 [Windows](https://www.ermao.net/uncategorized/clash-for-windows/)
-
-访问密码：clash
+- 📱 [Android](https://github.com/Kr328/ClashForAndroid/releases)
+- 🖥 [Windows and Linux](https://github.com/Dreamacro/clash)
 
 ## ⭐ 感谢支持
 
-[![操，图挂了……](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/mail/project_info.svg)](https://github.com/ermaozi/get_subscribe)
+[![photo](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/mail/project_info.svg)](https://github.com/ermaozi/get_subscribe)
