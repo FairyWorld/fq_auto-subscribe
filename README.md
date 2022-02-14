@@ -17,6 +17,13 @@
 
 - v2ray订阅链接：`https://cdn.jsdelivr.net/gh/obcbo/auto-subscribe/subscribe/v2ray.txt`
 
+<details>
+<summary>[点击展开] - 非CDN链接(国内可能无法访问)</summary>
+<pre><code>clash订阅链接：https://raw.githubusercontent.com/ObcbO/auto-subscribe/main/subscribe/clash.yml
+v2ray订阅链接：https://raw.githubusercontent.com/ObcbO/auto-subscribe/main/subscribe/v2ray.txt
+</code></pre>
+</details>
+
 ## 📘 客户端使用方法
 
 - 📱 [Android](https://github.com/Kr328/ClashForAndroid/releases)
