@@ -44,4 +44,4 @@ v2ray订阅链接: https://raw.githubusercontent.com/ObcbO/auto-subscribe/main/s
 
 ## ⭐ 感谢支持
 
-[![photo](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/mail/project_info.svg)](https://github.com/ermaozi/get_subscribe)
+[![photo](https://cdn.jsdelivr.net/gh/obcbo/auto-subscribe/mail/project_info.svg)](https://github.com/ObcbO/auto-subscribe)

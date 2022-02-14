@@ -44,4 +44,4 @@ v2ray: https://raw.githubusercontent.com/ObcbO/auto-subscribe/main/subscribe/v2r
 
 ## ⭐ Thanks
 
-[![photo](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/mail/project_info.svg)](https://github.com/ermaozi/get_subscribe)
+[![photo](https://cdn.jsdelivr.net/gh/obcbo/auto-subscribe/mail/project_info.svg)](https://github.com/ObcbO/auto-subscribe)
