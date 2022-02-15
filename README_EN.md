@@ -22,9 +22,9 @@ This repository's online site <https://auto-subscribe.vercel.app/>
 
 ## 🚀 Subscription Links
 
-- clash: `https://cdn.jsdelivr.net/gh/obcbo/auto-subscribe/subscribe/clash.yml`
+- clash: `https://fastly.jsdelivr.net/gh/obcbo/auto-subscribe/subscribe/clash.yml`
 
-- v2ray: `https://cdn.jsdelivr.net/gh/obcbo/auto-subscribe/subscribe/v2ray.txt`
+- v2ray: `https://fastly.jsdelivr.net/gh/obcbo/auto-subscribe/subscribe/v2ray.txt`
 
 <details>
 <summary>[Click to expand] - Non-CDN links</summary>
