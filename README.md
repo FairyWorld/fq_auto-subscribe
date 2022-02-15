@@ -22,9 +22,9 @@
 
 ## 🚀 订阅链接
 
-- clash订阅链接: `https://cdn.jsdelivr.net/gh/obcbo/auto-subscribe/subscribe/clash.yml`
+- clash订阅链接: `https://fastly.jsdelivr.net/gh/obcbo/auto-subscribe/subscribe/clash.yml`
 
-- v2ray订阅链接: `https://cdn.jsdelivr.net/gh/obcbo/auto-subscribe/subscribe/v2ray.txt`
+- v2ray订阅链接: `https://fastly.jsdelivr.net/gh/obcbo/auto-subscribe/subscribe/v2ray.txt`
 
 <details>
 <summary>[点击展开] - 非CDN链接(大陆地区可能无法访问)</summary>
