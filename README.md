@@ -37,8 +37,11 @@ v2ray订阅链接: https://raw.githubusercontent.com/ObcbO/auto-subscribe/main/s
 
 ## 📘 客户端
 
-- 📱 [Android](https://github.com/Kr328/ClashForAndroid/releases)
-- 🖥 [Windows and Linux](https://github.com/Dreamacro/clash)
+- [通用](https://github.com/Dreamacro/clash/releases)
+- [Android](https://github.com/Kr328/ClashForAndroid/releases)
+- [Windows](https://github.com/Dreamacro/clash/releases)
+- [Windows汉化版](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)
+- [Linux](https://github.com/wanhebin/clash-for-linux/releases)
 
 - - -
 
